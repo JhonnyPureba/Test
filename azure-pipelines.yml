@@ -17,13 +17,3 @@ steps:
     publishJUnitResults: true
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     goals: 'clean test'
-- task: PublishCucumberReport@1
-  inputs:
-    jsonDir: '$(System.DefaultWorkingDirectory)'
-    outputPath: '$(System.DefaultWorkingDirectory)'
-    theme: 'bootstrap'
-    reportSuiteAsScenarios: true
-
-- task: DotNetCoreCLI@2
-  inputs:
-    command: 'test'
