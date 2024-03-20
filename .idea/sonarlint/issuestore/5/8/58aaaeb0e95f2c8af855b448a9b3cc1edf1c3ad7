@@ -1,0 +1,44 @@
+
+†
+java:S11921"JDefine a constant instead of duplicating this literal "Safetypay" 3 times.(à™ì J$3119d8bf-458d-4cf0-933c-e5b80cf5f3be
+‰
+java:S11924"MDefine a constant instead of duplicating this literal "PagoEfectivo" 3 times.(Ùš“¡J$e85f8c81-b4e7-42d7-b923-cb8c07e26277
+ˆ
+java:S1192."GDefine a constant instead of duplicating this literal "Kashio" 3 times.(ÃÌÔÊøÿÿÿÿJ$6989e38c-d500-4c9a-bcc5-d553e8a530cf
+w	java:S125"<This block of commented-out lines of code should be removed.(´á¶¢J$3a1ffbfb-25f9-4728-b86a-b6c26694a216
+¿
+java:S1130&"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(·úªúÿÿÿÿ8Í–òäå1J$5db973f5-bacb-4f87-9497-572baf4a1330
+|	java:S125'"<This block of commented-out lines of code should be removed.(‘÷Õ‹øÿÿÿÿJ$b91b7654-2712-4452-81ae-bd063237ce64
+\	java:S131-""Add a default case to this switch.(¡ı…2J$afa4d453-b431-42ac-b35a-f39a5405e3cd
+x
+java:S2209/"5Change this instance-reference to a static reference.(‰û„¢8Ù–òäå1J$cd13d6dd-5d26-4e3a-87e4-a36018f31f4a
+}
+java:S22092"5Change this instance-reference to a static reference.(”»«şşÿÿÿÿ8Ú–òäå1J$dec8e05a-8e5e-41cf-9b35-87d29ad19761
+x
+java:S22095"5Change this instance-reference to a static reference.(©¨½ğ8Ú–òäå1J$43f703d2-db00-415c-a217-57b35ee94b65
+}
+java:S22098"5Change this instance-reference to a static reference.(õ”î”şÿÿÿÿ8Û–òäå1J$7cc3341d-4df4-44e7-bc34-a9f7e0343796
+w
+java:S2209;"5Change this instance-reference to a static reference.(¢–…8Û–òäå1J$0a65ba87-a9fc-4d76-be3a-0e9497f8272e
+y
+java:S1854Q"8Remove this useless assignment to local variable "wait".(éËÎËûÿÿÿÿJ$42c9e7a0-bbe7-46e3-b55b-54d2fbc9da53
+j
+java:S1481Q")Remove this unused "wait" local variable.(éËÎËûÿÿÿÿJ$5b71b264-8cba-420c-8aa0-c87a7a4cf294
+|	java:S125R"<This block of commented-out lines of code should be removed.(›’æ¼úÿÿÿÿJ$2ef4b74d-772a-413f-b028-01911843461f
+k	java:S106W"+Replace this use of System.out by a logger.(Ê´¢·øÿÿÿÿJ$670a0a4c-6e29-43fb-b75d-74c0b1e73493
+|	java:S125V"<This block of commented-out lines of code should be removed.(â¸«¿ùÿÿÿÿJ$97c915f9-ac1f-4d2e-b5d9-0512a12c881c
+g	java:S106†"+Replace this use of System.out by a logger.(©ÈÌØJ$2e11ef5e-298d-455a-91a7-a9e6a04cece3
+‹
+java:S1128"CRemove this unused import 'atlantic.main.xpath.XpathIniciarSesion'.(™Ÿ„“ÿÿÿÿÿ8ë–òäå1J$5d781dca-5d28-45ba-a8c0-cbc144f2bbe5
+}
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8ë–òäå1J$089b3c80-fa85-4a78-b8c3-2902373514ac
+ƒ
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ8ë–òäå1J$7c077365-f3f1-4286-aca8-8654b6035b83
+†
+java:S1128"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È8ë–òäå1J$9751858a-bd20-4b20-9806-a18c90169870
+–
+java:S1128"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8ë–òäå1J$71f2f830-ab25-4181-bffe-24794a2e2692
+‹
+java:S1128"HRemove this unused import 'net.serenitybdd.screenplay.waits.Wait.until'.(ÈÔ‡®8ë–òäå1J$b738affb-3d0a-454b-8e4a-11d246cf668f
+j
+java:S1068".Remove this unused "wdwTimeOut" private field.(¥£üæJ$93e58d1b-5b56-4d02-a967-140ba7461531

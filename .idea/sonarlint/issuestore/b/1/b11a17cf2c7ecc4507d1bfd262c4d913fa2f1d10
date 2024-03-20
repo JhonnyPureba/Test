@@ -1,0 +1,25 @@
+
+h	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(עÞ₪‹‎ÿÿÿÿ8סטגו1
+c	java:S112¢"FDefine and throw a dedicated exception instead of using a generic one.(ûÙ²ץ8סטגו1
+
+java:S1488®"\Immediately return this expression instead of assigning it to the temporary variable "text".(ˆל­‎ÿÿÿÿ8 סטגו1
+g
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(¸¹ע׳‏ÿÿÿÿ8כסטגו1
+e
+java:S1182*"HUse super.clone() to create and seed the cloned instance to be returned.(¯בׁכ8םסטגו1
+G	java:S106J"+Replace this use of System.out by a logger.(¦„ֲֵ8ססטגו1
+=
+java:S2129S" Remove this "Double" constructor(״רµ8פסטגו1
+e
+java:S5738S"HRemove this call to a deprecated method, it has been marked for removal.(״רµ8פסטגו1
+€
+java:S2142Y"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ט®ד¶רÿÿÿÿ8ץסטגו1
+]	java:S125W"<This block of commented-out lines of code should be removed.(«הרפ‏ÿÿÿÿ8ץסטגו1
+L	java:S106Z"+Replace this use of System.out by a logger.(‎™ררÿÿÿÿ8ץסטגו1
+K
+java:S1172_")Remove this unused method parameter "we".(“’‎תתÿÿÿÿ8צסטגו1
+L	java:S106"+Replace this use of System.out by a logger.(‎™ררÿÿÿÿ8‎סטגו1
+?
+java:S1116ˆ"Remove this empty statement.(ֵס­ץ‏ÿÿÿÿ8‰עטגו1
+P
+java:S1068".Remove this unused "wdwTimeOut" private field.(קאµֳ‎ÿÿÿÿ8“עטגו1
